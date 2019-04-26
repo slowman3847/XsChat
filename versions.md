@@ -72,3 +72,5 @@ This update adds a user-defined password, getting rid of the 'Channels'. This is
 This update introduces the new versioning system in the what is supported, and fixes a key security vulnerability with shorter passwords. This also fixes 7.1.2 and 7.1.1 backwords compatibility.
 ## 8.1.1a
 This update simply changes the name of "index.html" to be more user friendly.
+## 8.1.1a.5 
+I just helped make the background of the textbox transparent, so it is more user friendly.
