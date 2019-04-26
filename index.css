@@ -1,0 +1,17 @@
+body {
+    background-color: black
+}
+h1 {
+    color: black
+}
+p {
+    color: greenyellow
+}
+input {
+    background-color: black
+}
+button {
+background-color: greenyellow
+}
+select {
+background-color: greenyellow
